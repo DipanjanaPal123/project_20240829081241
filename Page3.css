@@ -1,0 +1,221 @@
+.page-3 .vector {
+  background: #FFFFFF;
+  width: 1024.5px;
+  height: 576px;
+}
+.page-3 .rectangle {
+  background: url('assets/images/Rectangle14.png');
+  width: 768.8px;
+  height: 392.2px;
+}
+.page-3 .clip-path-group-2 {
+  position: relative;
+  display: flex;
+  width: 768.7px;
+  height: 392.2px;
+  box-sizing: border-box;
+}
+.page-3 .vector-3 {
+  width: 40.2px;
+  height: 4px;
+}
+.page-3 .clip-path-group-4 {
+  margin-bottom: 2.4px;
+  display: flex;
+  align-self: flex-start;
+  width: 40.2px;
+  height: 4px;
+  box-sizing: border-box;
+}
+.page-3 .vector-4 {
+  width: 20.6px;
+  height: 16.1px;
+}
+.page-3 .clip-path-group-5 {
+  margin-right: 1.4px;
+  display: flex;
+  align-self: center;
+  width: 20.9px;
+  height: 16.2px;
+  box-sizing: border-box;
+}
+.page-3 .clip-path-group-3 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 120.2px;
+  bottom: 26.8px;
+  display: flex;
+  flex-direction: column;
+  padding: 3px 0 16.3px 11.8px;
+  width: 185px;
+  box-sizing: border-box;
+}
+.page-3 .clip-path-group-8 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 1024.5px;
+  height: 576px;
+}
+.page-3 .vector-8 {
+  background: #FFFFFF;
+  width: 113.8px;
+  height: 84.7px;
+}
+.page-3 .clip-path-group-9 {
+  position: absolute;
+  left: 411.6px;
+  bottom: 228.5px;
+  display: flex;
+  width: 114px;
+  height: 84.7px;
+  box-sizing: border-box;
+}
+.page-3 .vector-9 {
+  background: #FFFFFF;
+  width: 113.9px;
+  height: 43px;
+}
+.page-3 .clip-path-group-10 {
+  position: absolute;
+  top: 212.6px;
+  right: 196.5px;
+  display: flex;
+  width: 114px;
+  height: 43px;
+  box-sizing: border-box;
+}
+.page-3 .vector-10 {
+  background: #FFFFFF;
+  width: 114px;
+  height: 147.4px;
+}
+.page-3 .clip-path-group-11 {
+  position: absolute;
+  right: 196.4px;
+  bottom: 194.7px;
+  display: flex;
+  padding-right: 0px;
+  width: 114px;
+  height: 147.2px;
+  box-sizing: border-box;
+}
+.page-3 .rectangle-1 {
+  background: url('assets/images/Rectangle14.png');
+  width: 768.8px;
+  height: 392.2px;
+}
+.page-3 .clip-path-group-12 {
+  position: absolute;
+  top: 234.2px;
+  right: 135.5px;
+  display: flex;
+  padding-right: 0px;
+  width: 211.5px;
+  height: 73.5px;
+  box-sizing: border-box;
+}
+.page-3 .rectangle-2 {
+  background: url('assets/images/Rectangle14.png');
+  width: 768.8px;
+  height: 392.2px;
+}
+.page-3 .clip-path-group-13 {
+  position: absolute;
+  top: 212.6px;
+  right: 135.5px;
+  display: flex;
+  padding-right: 0px;
+  width: 211.5px;
+  height: 21.8px;
+  box-sizing: border-box;
+}
+.page-3 .clip-path-group-16 {
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 1024.5px;
+  height: 576px;
+}
+.page-3 .vector-17 {
+  background: #FFFFFF;
+  margin: 4.5px 0.8px 1.5px 0;
+  width: 11.7px;
+  height: 0px;
+}
+.page-3 .container {
+  width: 6px;
+  height: 9px;
+}
+.page-3 .clip-path-group-17 {
+  position: absolute;
+  top: 85px;
+  right: 204.8px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.page-3 .get-started {
+  position: absolute;
+  top: 67.4px;
+  right: 231px;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 700;
+  font-size: 22.1px;
+  color: #FFFFFF;
+}
+.page-3 .freelancing-made-easy {
+  position: absolute;
+  left: 173px;
+  top: 55.5px;
+  overflow-wrap: break-word;
+  font-family: 'DM Sans';
+  font-weight: 700;
+  font-size: 36.6px;
+  color: #FFFFFF;
+}
+.freelancing-made-easy {
+  font-family: 'DM Sans';
+  font-weight: 700;
+  font-size: 36.6px;
+  line-height: 1.333;
+  color: #EF6B48;
+}
+.page-3 .fauget-international-ltd-2024 {
+  position: absolute;
+  left: 252.2px;
+  bottom: 49.5px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 10.9px;
+  color: #82838B;
+}
+.page-3 .fauget {
+  position: absolute;
+  left: 172.2px;
+  bottom: 49.1px;
+  overflow-wrap: break-word;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  font-size: 15.7px;
+  color: #82838B;
+}
+.page-3 .clip-path-group-1 {
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 151.4px 15.4px 32.3px 0;
+  width: 1024.5px;
+  height: 576px;
+  box-sizing: border-box;
+}
+.page-3 {
+  background: #FFFFFF;
+  display: flex;
+  width: 1024.5px;
+  box-sizing: border-box;
+}
